@@ -1,0 +1,6 @@
+ first ni it edutha treminail cd imageprocessor-->cd Scripts -->activates ith adikkanam
+ennitt back adich (cd ..) genoyil vann  pip install -r requireme
+vendum cd imageil kayaranam athil vech python manage.py runserver adikkanam appo oru host address varum athil kayariya page varum
+address baril host address kazhinj/admin adicha admin page load aayivarum 
+admin user:imageprocessor
+password:admin
